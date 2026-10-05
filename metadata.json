@@ -1,0 +1,6 @@
+{
+  "name": "Türkiye Hidden Experiences",
+  "description": "Discover authentic, lesser-known, and locally verified experiences throughout Türkiye.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
